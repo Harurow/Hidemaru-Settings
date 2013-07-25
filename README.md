@@ -1,12 +1,11 @@
-Hidemaru-Settings
-===============================================================================
-秀丸の設定
+# 秀丸設定
 
--solarized-dark.hilight
-  http://ethanschoonover.com/solarized
-  を参考に作成した"solarized-dark"の色設定
-  色設定のみの定義です。
+秀丸の設定を作ったのでアップします
 
--------------------------------------------------------------------------------
-ライセンス
+## 色設定
+- Solarized (dark)
+  有名な配色[SOLARIZED](http://ethanschoonover.com/solarized)を参考につくりました。
+  "solarized-dark"の色のみの設定です。
+
+## ライセンス
  MITライセンス
